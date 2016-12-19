@@ -1,3 +1,5 @@
+
+
 package hp.harsh.rxjavawithandroidexample;
 
 import android.content.Intent;
@@ -6,10 +8,6 @@ import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
-
-/**
- * Created by Harsh Patel on 12/19/2016.
- */
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 

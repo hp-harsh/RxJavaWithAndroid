@@ -41,7 +41,6 @@ Moreover, there is an example of How to download file by RxJava without use of n
  - Have you found a bug?
 
  I try to explain basics of RxJava in Android. If you have similar examples for other users, feel free to send pull request.
-
  Contributors are always welcome! Be ready to share your code and help out others.
 
 # License

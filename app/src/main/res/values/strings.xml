@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">RxJava with Android</string>
+    <string name="download">Download</string>
+    <string name="title">Download file using RxAndroid</string>
+    <string name="complete_message">Download completed</string>
+    <string name="result">Result</string>
+    <string name="download_note">Note : Marshmallow permission is not integrated. Please enable manually, if you have require.</string>
+
+    <!--MainActivity-->
+    <string name="create_observable">Create Observable Example</string>
+    <string name="defer_observable">Defer Observable Example</string>
+    <string name="from_observable">From Observable Example</string>
+    <string name="interval_observable">Interval Observable Example</string>
+    <string name="just_observable">Just Observable Example</string>
+    <string name="range_observable">Range Observable Example</string>
+    <string name="timer_observable">Timer Observable Example</string>
+    <string name="filtering_observable">Filtering Observables Example</string>
+    <string name="combining_observable">Combining Observables Example</string>
+    <string name="miscellaneous_observable">Miscellaneous Example</string>
+    <string name="download_file_using_rxjava">Download File using RxJava</string>
+
+    <!--TimerObservableActivity-->
+    <string name="timer_current_time">Get current time</string>
+    <string name="timer_current_time_after_five_seconds">Get current time after 5 seconds</string>
+
+    <!--IntervalObservableActivity-->
+    <string name="interval_current_time_every_time">Get current time every second</string>
+    <string name="interval_current_time_after_every_five_seconds">Get current time after every 5 seconds</string>
+    <string name="interval_current_time_after_every_five_seconds_update_second">Get current time after 5 seconds and update at every second</string>
+
+    <!--JustObservableActivity-->
+    <string name="just_hello">Just print \"Hello\"</string>
+    <string name="just_current_time">print current time</string>
+    <string name="just_sum_integer">print sum of integer</string>
+
+    <!--FromObservableActivity-->
+    <string name="from_print_integers">Print integers from Array</string>
+    <string name="from_print_strings">print strings from Array</string>
+
+    <!--CreateObservableActivity-->
+    <string name="create_current_time">Get current time</string>
+    <string name="create_country_names">Get countries</string>
+
+    <!--DeferObservableActivity-->
+    <string name="defer_current_time">Get current time</string>
+    <string name="defer_country_names">Get countries</string>
+
+    <!--DeferObservableActivity-->
+    <string name="range_integers_1_4">Get integers from 1 to 4</string>
+    <string name="range_integers_50_54">Get integers from 50 to 54</string>
+
+    <!--FilteringObservableActivity-->
+    <string name="operator_1">Square value (Using MAP)</string>
+    <string name="operator_2">Distinct values (USING DISTINCT)</string>
+    <string name="operator_3">Get value at specific position (Using ELEMENT AT)</string>
+    <string name="operator_4">Distinct values (USING DISTINCT)</string>
+    <string name="operator_5">Find odd values (USING FILTER)</string>
+    <string name="operator_6">Get first value (USING FIRST)</string>
+    <string name="operator_7">Ignore values (USING IGNORE ELEMENTS)</string>
+    <string name="operator_8">Get last value (USING LAST)</string>
+    <string name="operator_9">Recent value within time period (USING SAMPLE)</string>
+    <string name="operator_10">Skip first 2 values (USING SKIP)</string>
+    <string name="operator_11">Skip last 2 values (USING SKIP LAST)</string>
+    <string name="operator_12">Get first 2 values (USING TAKE)</string>
+    <string name="operator_13">Get Last 2 values (USING TAKELAST)</string>
+
+    <!--CombiningObservableActivity-->
+    <string name="combine_1">Combine data (USING COMBINE LATEST)</string>
+    <string name="combine_2">Combine data (USING MERGE)</string>
+    <string name="combine_3">Combine data (USING ZIP)</string>
+</resources>
